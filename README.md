@@ -35,7 +35,7 @@
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=10-abdul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
@@ -48,7 +48,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </div>
