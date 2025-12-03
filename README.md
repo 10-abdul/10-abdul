@@ -5,7 +5,7 @@
 ### <div align="center">👨‍💻 B.Tech CSE Student @ LPU (Class of 2029) </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdul-wadood-a4160a37a">
+  <a href="https://www.linkedin.com/in/abdul-wadood-a4160a37a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abdulwadood.8953@gmail.com">
