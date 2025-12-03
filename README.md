@@ -19,7 +19,7 @@
 - 🎓 I am a first-year **Computer Science** student at **Lovely Professional University (LPU)**.
 - 🌱 I’m currently learning **C++**, **Python**, and **Data Structures**.
 - 💡 I’m interested in **Artificial Intelligence** and **Full Stack Development**.
-- 🚀 Goals for 2025: Master DSA and build my first web application.
+- 🚀 Goals for 2026: Master DSA and build web application.
 
 ---
 
